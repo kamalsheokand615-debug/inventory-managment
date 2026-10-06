@@ -1,0 +1,10 @@
+{
+  "name": "Remix इन्वेंटरी साथी - Inventory \u0026 Stock Manager",
+  "description": "स्मार्ट इन्वेंटरी प्रबंधन, कम स्टॉक अलर्ट्स, सेल्स रिपोर्ट, यूजर रोल्स, एंड-टू-एंड एन्क्रिप्शन और स्पीकर वॉयस स्टॉक घोषणा।",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
