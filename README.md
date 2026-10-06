@@ -6,6 +6,8 @@
 
 The project is developed using JavaScript and is structured to make inventory management easier and more efficient.
 
+<img width="939" height="411" alt="website screen shot" src="https://github.com/user-attachments/assets/c9e87dda-2c2e-41c5-a30e-32e36c1319bf" />
+
 ## ✨ Features
 
 * 📦 Inventory management
@@ -110,4 +112,3 @@ GitHub: [kamalsheokand615-debug](https://github.com/kamalsheokand615-debug)
 ## 📄 License
 
 This project is created for learning and development purposes.
-<img width="939" height="411" alt="website screen shot" src="https://github.com/user-attachments/assets/c9e87dda-2c2e-41c5-a30e-32e36c1319bf" />
