@@ -1,4 +1,3 @@
-# Hi, I am kamaldeep
 # Inventory Management System
 
 ## 📌 About the Project
@@ -6,7 +5,7 @@
 **Inventory Management System** is a web-based project designed to help manage inventory and related operations in an organized and simple way.
 
 The project is developed using JavaScript and is structured to make inventory management easier and more efficient.
-
+# Hi, I am Kamaldeep
 <img width="939" height="411" alt="website screen shot" src="https://github.com/user-attachments/assets/c9e87dda-2c2e-41c5-a30e-32e36c1319bf" />
 
 ## ✨ Features
